@@ -7,7 +7,7 @@
         {
 
             int ReelPin = 1905, ReelPuk = 1905199455, Pin, YeniPin, Puk, PukHak = 10,
-                PinBloke = 3, PukBloke = 14, OnayKodu = 0,
+                PinBloke = 3, PukBloke = 10, OnayKodu = 0,
                 MusteriTemsilcisiOnayKodu = 0123456789;
 
             Console.Write("Lütfen 4 Haneli Pin Kodunuzu Giriniz : ");
